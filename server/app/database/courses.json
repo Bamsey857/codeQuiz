@@ -1,0 +1,165 @@
+[
+  {
+    "id": "17ec4948-f40e-4be6-a0e3-fc5b67699a91",
+    "user_id": "406d3280-3efc-457e-af5c-b54b3f4422c6",
+    "title": "HTML Basics Quiz",
+    "slug": "html-basics-quiz",
+    "status": true,
+    "image_url": "http://localhost:5050/api/v1/image/30a11f5d-22b6-467d-9ab6-dfc2d1040303.png",
+    "description": "Test your knowledge of HTML with this quiz! Covering fundamental concepts like tags, attributes, and elements, it’s perfect for beginners and those revisiting HTML. With 15 multiple-choice questions, you’ll assess your understanding of key HTML features and structures. Sharpen your skills and build confidence in creating web pages. Good luck!\n",
+    "created_at": "2024-09-10T02:01:54.777Z",
+    "updated_at": "2024-09-12T17:26:49.150Z",
+    "questions": [
+      {
+        "id": "3aad7079-4102-452f-b266-4138999266b9",
+        "type": "radio",
+        "question": "What does HTML stand for?",
+        "description": "",
+        "data": {
+          "options": [
+            {
+              "id": "5c3844f2-2b62-4394-ba4c-bcc841e85080",
+              "text": "HyperText Markup Language ",
+              "isCorrect": true
+            },
+            {
+              "id": "bfc8c690-abe0-4bcb-80aa-07a0e32553ff",
+              "text": "HyperText Management Language",
+              "isCorrect": false
+            },
+            {
+              "id": "a644d8fd-237a-403b-a9b9-41e5a6a6fa0a",
+              "text": "HyperTransfer Markup Language",
+              "isCorrect": false
+            },
+            {
+              "id": "3c177a5b-3c1c-490d-adfe-68822bc7857e",
+              "text": "HyperText Multilayer Language",
+              "isCorrect": false
+            }
+          ]
+        }
+      },
+      {
+        "id": "25791d26-1788-48bc-baf6-3ffd0fca9f06",
+        "type": "radio",
+        "question": "Which HTML element is used to specify a header for a document or section?",
+        "description": "",
+        "data": {
+          "options": [
+            {
+              "id": "b076fbe8-c06a-447f-9cdb-ca214ab1d64c",
+              "text": "<header>",
+              "isCorrect": true
+            },
+            {
+              "id": "e3a9e670-279c-4bcb-b5f6-05449641acd1",
+              "text": "<head>",
+              "isCorrect": false
+            },
+            {
+              "id": "269226bd-ecb2-4d04-a8d2-ea98b1c20dd6",
+              "text": "<h1>",
+              "isCorrect": false
+            },
+            {
+              "id": "443f7876-9ca6-454d-8371-0a9718207571",
+              "text": "<section>",
+              "isCorrect": false
+            }
+          ]
+        }
+      },
+      {
+        "id": "1794f27b-0156-4f9d-829b-747f67f8790d",
+        "type": "radio",
+        "question": "How do you create a hyperlink in HTML?",
+        "description": "",
+        "data": {
+          "options": [
+            {
+              "id": "e2572197-d871-4485-b340-276ae99c021b",
+              "text": "<a href=\"url\">Link text</a>",
+              "isCorrect": true
+            },
+            {
+              "id": "65191ed2-fedd-49f3-83e1-8ee0e8d392d2",
+              "text": "<link href=\"url\">Link text</link>",
+              "isCorrect": false
+            },
+            {
+              "id": "d980d2bd-d070-4359-af63-e1a2d47ed683",
+              "text": "<hyperlink href=\"url\">Link text</hyperlink>",
+              "isCorrect": false
+            },
+            {
+              "id": "29600e1e-e923-4db0-b294-b1dcd0311165",
+              "text": "<url href=\"url\">Link text</url>",
+              "isCorrect": false
+            }
+          ]
+        }
+      },
+      {
+        "id": "c20cc2f7-c48f-4cf4-91e1-6b6f43d7a28c",
+        "type": "radio",
+        "question": "Which HTML tag is used to define an unordered list?",
+        "description": "",
+        "data": {
+          "options": [
+            {
+              "id": "25acb5bb-6d75-4fbc-bf7e-baa34d44cd53",
+              "text": "<ul>",
+              "isCorrect": true
+            },
+            {
+              "id": "e9a1c0de-5ce1-46a6-9e4a-40febd627cc0",
+              "text": "<ol>",
+              "isCorrect": false
+            },
+            {
+              "id": "bda72358-9eff-4a91-89f4-8ae0f0277f2d",
+              "text": "<li>",
+              "isCorrect": false
+            },
+            {
+              "id": "c66a585e-77d3-4f30-ab84-8c7f17a361a8",
+              "text": "<list>",
+              "isCorrect": false
+            }
+          ]
+        }
+      },
+      {
+        "id": "6225722b-158e-428e-8aad-aadec4d9a9e9",
+        "type": "radio",
+        "question": "What attribute is used to specify an image source in HTML?",
+        "description": "",
+        "data": {
+          "options": [
+            {
+              "id": "13d6c499-167b-4371-8ac7-c8aa509c33f1",
+              "text": "src",
+              "isCorrect": true
+            },
+            {
+              "id": "bf320e18-76ba-4d0f-b3b8-aea1c5528673",
+              "text": "href",
+              "isCorrect": false
+            },
+            {
+              "id": "2b325acb-6283-4db9-b011-de6ae5ef549a",
+              "text": "alt",
+              "isCorrect": false
+            },
+            {
+              "id": "c8be81b9-757a-4068-9e41-2e8d5a824006",
+              "text": "link",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

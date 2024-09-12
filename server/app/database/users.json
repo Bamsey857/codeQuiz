@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Cane Doe",
+    "email": "john1@test.com",
+    "password": "$2b$10$5zPSWsVYUIngFG48geI2L.w79DblJgU34E6cvagnBwxA.MEn1LkKW",
+    "isTeach": false,
+    "id": "857ce07d-3e36-480c-b89f-045ef901907e"
+  },
+  {
+    "name": "Jane Salt Doe",
+    "email": "jane1@test.com",
+    "password": "$2b$10$NT5GEpP6BGAwc4/bFu6gL.tfjPGXG5PH6U8TxlNZRRh6/hTYKyFnu",
+    "isTeach": true,
+    "id": "406d3280-3efc-457e-af5c-b54b3f4422c6"
+  }
+]
