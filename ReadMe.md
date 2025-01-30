@@ -32,7 +32,7 @@ CodeQuiz is a web application built with Express and React that allows teachers 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/codequiz.git
+   git clone https://github.com/bamsey857/codequiz.git
    cd codequiz
    ```
 
